@@ -1,5 +1,4 @@
-# Rentalcar-frontend
-Web app for car rental company
+
 # 🚗 RentalCar Frontend – Pet Project
 
 Це pet-проєкт, створений для практики розробки фронтенд-додатків з використанням **Next.js**, **TypeScript**, **Zustand**, **Axios** та взаємодією з публічним API.
